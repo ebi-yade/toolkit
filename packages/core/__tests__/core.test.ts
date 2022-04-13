@@ -31,7 +31,7 @@ const testEnvVars = {
   INPUT_WRONG_BOOLEAN_INPUT: 'wrong',
   INPUT_WITH_TRAILING_WHITESPACE: '  some val  ',
 
-  INPUT_MY_INPUT_LIST: 'val1\nval2\nval3',
+  INPUT_MY_INPUT_LIST: 'val1\nval2 \nval3',
 
   // Save inputs
   STATE_TEST_1: 'state_val',
